@@ -40,7 +40,7 @@ I will update this table daily with the problems I solve, along with the platfor
 ## 🛠️ Technologies Used
 
 - **Languages**: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-- **Platforms**: ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=black) ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C853?style=flat-square&logo=geeksforgeeks&logoColor=white)
+- **Platforms**: ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=black) ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C853?style=flat-square&logo=geeksforgeeks&logoColor=white)
 
 ---
 
