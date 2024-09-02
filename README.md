@@ -21,12 +21,33 @@ I will update this table daily with the problems I solve, along with the platfor
 | Date       | Problem Title                            | Platform  | Difficulty | Solution Link                         | Notes                                 |
 |------------|------------------------------------------|-----------|------------|---------------------------------------|---------------------------------------|
 | 2024-09-01 | Two Sum                                  | LeetCode  | Easy       | [Solution](./LeetCode/TwoSum.py)      | Basic hash map approach               |
-| 2024-09-02 | Longest Substring Without Repeating Char | LeetCode  | Medium     | [Solution](./LeetCode/LongestSubstring.py) | Sliding window technique          |
+| 2024-09-02 | Longest Substring Without Repeating Char | LeetCode  | Medium     | [Solution](./LeetCode/LongestSubstring.py) | Sliding window technique             |
 | 2024-09-03 | [Problem Title]                          | [Platform]| [Difficulty] | [Solution Link]                      | [Notes]                               |
 
 ---
 
-## 📁 Repository Structure
+## 🎯 Goals
 
-The repository is organized as follows:
+- Enhance problem-solving skills.
+- Improve understanding of core DSA concepts.
+- Prepare for technical interviews.
+- Track progress over time.
 
+---
+
+## 🛠️ Technologies Used
+
+- **Languages**: Java
+- **Platforms**: LeetCode, HackerRank, GeeksforGeeks
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/akash-mukherjee)
+- [GitHub](https://github.com/akashm01github)
+- [Email](mailto:akashmukhopadhayay@gmail.com)
+
+---
+
+Happy coding! 😊
