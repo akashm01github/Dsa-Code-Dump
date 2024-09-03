@@ -33,16 +33,6 @@ This repository is a collection of:
 
 ---
 
-## Daily DSA Progress Tracker
-
-| Date       | Topic                          | Day  | Platform                     |
-|------------|--------------------------------|------|------------------------------|
-| 2024-09-01 | Arrays and Strings             | Day 1| [LeetCode](https://leetcode.com) |
-| 2024-09-02 | Linked Lists                   | Day 2| [HackerRank](https://hackerrank.com) |
-| 2024-09-03 | Stacks and Queues              | Day 3| [GeeksforGeeks](https://geeksforgeeks.org) |
-| ...        | ...                            | ...  | ...                          |
-
-
 ---
 
 ## 🔗 Connect with Me
